@@ -1,5 +1,5 @@
 # File-organiser
-This is a program that organise your files and store them in different folders based on their types.
+This is a program that organises your files and store them in different folders based on their types.
 
 ## Usage
 Fork this repository to your computer and run the `main.py` file.
