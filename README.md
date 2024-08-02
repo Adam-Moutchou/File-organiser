@@ -10,3 +10,7 @@ python main.py
 <br />
 
 If you use a __Mac__, you may consider changing the path of the __Downloads__ folder inside `main.py` in line 5
+
+```python
+downloads_folder_path = "/Users/pc/Downloads"
+```
